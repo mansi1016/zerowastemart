@@ -1,4 +1,4 @@
-const OCR_API_BASE = 'http://localhost:8000';
+const OCR_API_BASE = 'https://zerowastemart.onrender.com';
 
 async function processOCRImage() {
     const fileInput = document.getElementById('ocrImageInput');
